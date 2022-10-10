@@ -34,7 +34,7 @@ localhost:9000
 -@PostMapping
  localhost:9100
  
- 
+ Json Body:
  {
     "firstName":"Mitesh",
 
@@ -49,7 +49,7 @@ localhost:9000
 -@PutMapping
  localhost:9100
  
- 
+ Json Body:
  {
 
     "ahId":1,
@@ -70,7 +70,7 @@ localhost:9000
 
 -@PostMapping    localhost:9200
 
-
+Json Body:
 {
 
 "header":"Salary",
